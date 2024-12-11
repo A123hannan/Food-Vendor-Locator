@@ -1,0 +1,150 @@
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csprojResolveAssemblyReference.cache
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.Cache
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+E:\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup_form.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csprojResolveAssemblyReference.cache
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.rolepanel.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.Cache
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.adminlogin.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.admin.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_customer_form.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_vendor_form.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.customer.resources
+D:\New folder\Data Base Assignments\Data Base project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendor.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+D:\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+D:\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csprojResolveAssemblyReference.cache
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.adminlogin.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.admin.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.customer.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_customer_form.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_vendor_form.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.rolepanel.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.see_vendor_form.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendor.resources
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.Cache
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+D:\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.AssemblyReference.cache
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.adminlogin.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.admin.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.customer.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_customer_form.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_vendor_form.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.rolepanel.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.see_vendor_form.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendor.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.cache
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.CoreCompileInputs.cache
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.itemform.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.checkitem.resources
+E:\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.updatevendor.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csprojAssemblyReference.cache
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.adminlogin.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.admin.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.checkitem.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.customer.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_customer_form.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_vendor_form.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.itemform.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.rolepanel.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.see_vendor_form.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.updatevendor.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendor.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.cache
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.CoreCompileInputs.cache
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendorshop.resources
+C:\Users\SMART TECH\Downloads\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.order.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.adminlogin.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.admin.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.checkitem.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.customer.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_customer_form.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_vendor_form.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.itemform.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.order.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.rolepanel.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.see_vendor_form.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.updatevendor.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendor.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendorshop.resources
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.cache
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csprojResolveAssemblyReference.cache
+E:\saim xoxo\project igi\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.update_customer.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe.config
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.exe
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Food Vendor Locator.pdb
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.AssemblyReference.cache
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.adminlogin.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.admin.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.checkitem.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.customer.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_customer_form.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.delete_vendor_form.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.itemform.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.loginform.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.order.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.Properties.Resources.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.rolepanel.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.see_vendor_form.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.signup.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.splashform.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.update_customer.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.updatevendor.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendor.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food_Vendor_Locator.vendorshop.resources
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.GenerateResource.cache
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.CoreCompileInputs.cache
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.exe
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.pdb
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Project\Food Vendor Locator\Food Vendor Locator\obj\Debug\Food Vendor Locator.csproj.CopyComplete

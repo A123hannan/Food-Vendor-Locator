@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project igi\\Project\\Food Vendor Locator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\updatevendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\updatevendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\updatevendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\updatevendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\newclassdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\newclassdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|e:\\project igi\\project\\food vendor locator\\food vendor locator\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|e:\\project igi\\project\\food vendor locator\\food vendor locator\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\checkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\checkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|E:\\project igi\\Project\\Food Vendor Locator\\food vendor locator\\checkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3CA153F-77AD-40BC-944A-1866F2D32D80}|Food Vendor Locator\\Food Vendor Locator.csproj|solutionrelative:food vendor locator\\checkitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customer.cs",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\customer.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\customer.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\customer.cs",
+              "RelativeToolTip": "Food Vendor Locator\\customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:58:07.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customer.cs [Design]",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\customer.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\customer.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\customer.cs [Design]",
+              "RelativeToolTip": "Food Vendor Locator\\customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:05:07.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "newclassdb.cs",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\newclassdb.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\newclassdb.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\newclassdb.cs",
+              "RelativeToolTip": "Food Vendor Locator\\newclassdb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:02:42.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "updatevendor.cs",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\updatevendor.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\updatevendor.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\updatevendor.cs",
+              "RelativeToolTip": "Food Vendor Locator\\updatevendor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:25:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "updatevendor.cs [Design]",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\updatevendor.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\updatevendor.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\updatevendor.cs [Design]",
+              "RelativeToolTip": "Food Vendor Locator\\updatevendor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:22:16.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "checkitem.cs",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\checkitem.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\checkitem.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\checkitem.cs",
+              "RelativeToolTip": "Food Vendor Locator\\checkitem.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA4wBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:08:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "checkitem.cs [Design]",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\checkitem.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\checkitem.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\checkitem.cs [Design]",
+              "RelativeToolTip": "Food Vendor Locator\\checkitem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:05:48.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "itemform.cs",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\itemform.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\itemform.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\itemform.cs",
+              "RelativeToolTip": "Food Vendor Locator\\itemform.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:49:04.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "itemform.cs [Design]",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\itemform.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\itemform.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\itemform.cs [Design]",
+              "RelativeToolTip": "Food Vendor Locator\\itemform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:33:24.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vendor.cs",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\vendor.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\vendor.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\vendor.cs",
+              "RelativeToolTip": "Food Vendor Locator\\vendor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:32:55.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vendor.cs [Design]",
+              "DocumentMoniker": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\vendor.cs",
+              "RelativeDocumentMoniker": "Food Vendor Locator\\vendor.cs",
+              "ToolTip": "E:\\project igi\\Project\\Food Vendor Locator\\Food Vendor Locator\\vendor.cs [Design]",
+              "RelativeToolTip": "Food Vendor Locator\\vendor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:32:42.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

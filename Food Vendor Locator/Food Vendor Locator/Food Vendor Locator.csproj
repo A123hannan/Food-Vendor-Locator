@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3CA153F-77AD-40BC-944A-1866F2D32D80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Food_Vendor_Locator</RootNamespace>
+    <AssemblyName>Food Vendor Locator</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminlogin.Designer.cs">
+      <DependentUpon>adminlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkitem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkitem.Designer.cs">
+      <DependentUpon>checkitem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.cs">
+      <DependentUpon>customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_customer_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_customer_form.Designer.cs">
+      <DependentUpon>delete_customer_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_vendor_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_vendor_form.Designer.cs">
+      <DependentUpon>delete_vendor_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemform.Designer.cs">
+      <DependentUpon>itemform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginform.Designer.cs">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newclassdb.cs" />
+    <Compile Include="order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order.Designer.cs">
+      <DependentUpon>order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="rolepanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rolepanel.Designer.cs">
+      <DependentUpon>rolepanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="see_vendor_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="see_vendor_form.Designer.cs">
+      <DependentUpon>see_vendor_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signup.Designer.cs">
+      <DependentUpon>signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="splashform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashform.Designer.cs">
+      <DependentUpon>splashform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="update customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update customer.Designer.cs">
+      <DependentUpon>update customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatevendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatevendor.Designer.cs">
+      <DependentUpon>updatevendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor.Designer.cs">
+      <DependentUpon>vendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendorshop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendorshop.Designer.cs">
+      <DependentUpon>vendorshop.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminlogin.resx">
+      <DependentUpon>adminlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkitem.resx">
+      <DependentUpon>checkitem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_customer_form.resx">
+      <DependentUpon>delete_customer_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_vendor_form.resx">
+      <DependentUpon>delete_vendor_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemform.resx">
+      <DependentUpon>itemform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginform.resx">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order.resx">
+      <DependentUpon>order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rolepanel.resx">
+      <DependentUpon>rolepanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="see_vendor_form.resx">
+      <DependentUpon>see_vendor_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signup.resx">
+      <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splashform.resx">
+      <DependentUpon>splashform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update customer.resx">
+      <DependentUpon>update customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatevendor.resx">
+      <DependentUpon>updatevendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor.resx">
+      <DependentUpon>vendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendorshop.resx">
+      <DependentUpon>vendorshop.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goku gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hehehi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\207-2074594_lord-whis-chibi-by-divine-justice-dragon-ball-super-chibi-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hahi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hehehi1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading gif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\492329d446c422b0483677d0318ab4fa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-cátia-matos-1072179.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-10-05 072642.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 08.41.42_93cb91fb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 110235.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 1102351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 110646.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 111231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 111552.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 1115521.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.20.40_c062480e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.24.16_76f5e3b2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.28.43_974a04d5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.33.06_5b90fd87.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.17.20_4fec08ce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.41.08_005426c1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 114635.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 115147.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-06-13 115357.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.56.32_66af9dc5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 08.41.42_93cb91fb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 12.06.15_b5bd8436.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 11.33.06_5b90fd871.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-06-13 at 12.32.47_f5469c88.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
